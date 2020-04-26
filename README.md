@@ -9,7 +9,8 @@ This is a portfolio projects based on my background and other things like my hob
 * run portfolio.html on your browser
 It usually works better using WI-FI and more experienced.
 ## Technologies Used
-I used both html and css language for i come up with this.
+* CSS - to style web page
+* HTML - structure web page
 ### License
 * MIT
 Copyright (c) 2020 ** Wyclif Ouma **
