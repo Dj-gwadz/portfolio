@@ -9,7 +9,7 @@ This is a portfolio projects based on my background and other things like my hob
 * run portfolio.html on your browser
 It usually works better using WI-FI and more experienced.
 ## Technologies Used
-* CSS - to style web page
+* CSS - to style web
 * HTML - structure web page
 ### License
 * MIT
